@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Radio",
+  "description": "A cyberpunk-themed Snake game combined with an AI-generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
